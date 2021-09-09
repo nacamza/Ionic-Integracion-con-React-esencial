@@ -1,0 +1,8 @@
+{
+  "appId": "contanimacion.tablon.com",
+  "appName": "Tablón",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

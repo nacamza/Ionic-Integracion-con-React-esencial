@@ -1,4 +1,12 @@
-.welcome-card img {
-  max-height: 35vh;
-  overflow: hidden;
+
+.home ion-content {
+  --background: rgba(12,209,232, 0.3);
 }
+
+ion-card-subtitle.ion-color-danger {
+  color: var(--ion-color-danger) !important;
+}
+ion-card-subtitle.ion-color-primary {
+  color: var(--ion-color-primary) !important;
+}
+
